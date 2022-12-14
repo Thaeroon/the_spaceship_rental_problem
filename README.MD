@@ -3,7 +3,7 @@
 ## usage
 
 ### installation
-got the root of the package (where pyproject.toml is)
+go to the root of the package (where pyproject.toml is)
 ```bash
 python3 -m pip install .
 ```
